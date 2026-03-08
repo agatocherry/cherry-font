@@ -3,5 +3,8 @@ My own font based on my handwriting
 
 ## Preview ✨
 <p align="center">
-  <img src="Preview.png" width="70%"/>
+  <img src="Preview.png" width="60%"/>
 </p>
+
+## Installation ⚡
+You can download [the ttf file](CherryFont-Regular.ttf) and double click on it to install this font on your PC.
