@@ -3,7 +3,7 @@ My own font based on my handwriting
 
 ## Preview ✨
 <p align="center">
-  <img src="./assets/Preview.png" width="60%"/>
+  <img src="Preview.png" width="60%"/>
 </p>
 
 ## Specimen 📄
