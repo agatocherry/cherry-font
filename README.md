@@ -1,4 +1,4 @@
-# Cherry Font
+# Cherry Font 🍒
 My own font based on my handwriting
 
 ## Preview ✨
