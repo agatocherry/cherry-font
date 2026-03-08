@@ -1,4 +1,5 @@
-# Cherry Font 🍒 [![Download Cherry Font](https://img.shields.io/badge/Download-Cherry%20Font-E2B8AD)](fonts/CherryFont-Regular.ttf)
+# Cherry Font 🍒 [![Download Cherry Font](https://github.com/agatocherry/cherry-font/blob/main/font/CherryFont-Regular.ttf)
+
 My own font based on my handwriting
 
 ## Preview ✨
